@@ -6,7 +6,7 @@ seven_seven="seven is a goodboy"
 sakura="seven is a goodboy"
 l="祝他幸福"
 echo ${seven_seven}
-if [ $seven_seven=$sakura ]
+if [ $seven_seven="seven is a good boy" ]
 then
     echo ${l}
 fi
