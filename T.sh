@@ -5,8 +5,8 @@ export PATH
 seven_seven="seven is a goodboy"
 sakura="seven is a goodboy"
 l="祝他幸福"
-echo ${seven_seven
-if [ $seven_seven=sakura ]
+echo ${seven_seven}
+if [ $seven_seven=$sakura ]
 then
     echo ${l}
 fi
