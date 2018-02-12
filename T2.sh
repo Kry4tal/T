@@ -2,7 +2,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-seven_seven="77 is a good girl"
+seven_seven="77 is a good girl!"
 sakura="sakura too!"
 l=${seven_seven}""${sakura}
 echo ${l}
